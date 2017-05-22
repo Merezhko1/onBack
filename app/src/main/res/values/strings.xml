@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragmentation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">List fragment</string>
+    <string name="add_activity">Add Fragment</string>
+    <string name="preview_fragment">Preview Fragment</string>
+</resources>
